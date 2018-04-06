@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.geo.gob.bo:base/common.git"
+    "url": "git@gitlab.geo.gob.bo:agetic/sedem2-common.git"
   },
-  "author": "Equipo G <eg@agetic.gob.bo>",
+  "author": "EG <eg@agetic.gob.bo>",
   "license": "MIT",
   "dependencies": {
     "intl": "^1.2.5",
